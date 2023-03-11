@@ -1,6 +1,6 @@
-Project Name: Fruit Shop E-commerce
+# # Project Name: Fruit Shop E-commerce ## 
 
-Project Start date:11-03-2023
+** Project Start date:11-03-2023 **
 
 Steps:
 1. Product Adding.
@@ -15,18 +15,6 @@ Steps:
 10. Admin Register.
 11. Admin Dashboard.
 12. Add or Show User comment.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
